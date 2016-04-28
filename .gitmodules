@@ -1,0 +1,6 @@
+[submodule "IPA"]
+	path = IPA
+	url = https://github.com/HP-Enterprise/IPA.git
+[submodule "IPG"]
+	path = IPG
+	url = https://github.com/HP-Enterprise/IPG.git
